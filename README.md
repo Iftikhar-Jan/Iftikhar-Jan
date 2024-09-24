@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">👋 Hello! I'm Muhammad Maaz</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="center">👋 Hello! I'm Iftikhar Jan</h1>
+<h3 align="center">A passionate Wed developer from Pakistan</h3>
 
 <!-- Animated Programmer Image -->
 <p align="center">
