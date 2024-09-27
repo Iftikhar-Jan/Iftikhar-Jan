@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
-- 📝 I regularly write articles on [Gooposts.com](Gooposts.com)
+- 📝 I regularly write articles on.........................
 
 - 💬 Ask me about **React, Express, Node js, PHP, Andriod Studio App Development**
 
